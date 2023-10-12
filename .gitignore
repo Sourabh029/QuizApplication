@@ -37,3 +37,5 @@ bin/
 *.iws
 *.iml
 *.ipr
+
+.idea/workspace.xml
