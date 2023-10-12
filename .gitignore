@@ -29,3 +29,11 @@ bin/
 .DS_Store
 /out
 /.idea
+
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
